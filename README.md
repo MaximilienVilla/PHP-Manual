@@ -17,7 +17,7 @@ Version: 4.0
  Pictures:
  
  -Old
- ![](/screenshots/screenshot2.png)
+ ![](/screenshots/screenshot1.png)
  
  -New
  ![](/screenshots/screenshot2.png)
