@@ -2,8 +2,8 @@
 
 PHP manual using MHFM (vaticancatholic.com) Theme
 
-1. Old Style removed.
-2. Theme Name: MHFM Theme 4.0
+- Old Style by PHP devs is removed.
+- Addendum Theme Name: MHFM Theme 4.0
 Theme URI:
 Description:
 Author: Jonathan N.
